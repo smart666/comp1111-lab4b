@@ -1,6 +1,6 @@
 phone
 computer
 printer
-appleaa
-orangeaaa
-pearaaa
+apple
+orange
+pear
