@@ -1,3 +1,6 @@
 phone
 computer
 printer
+apple
+orange
+pear
