@@ -1,3 +1,6 @@
 apple
 orange
 pear
+phonerr
+computerrr
+printerrr
