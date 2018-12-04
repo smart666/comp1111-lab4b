@@ -1,6 +1,9 @@
-phone
+phonetell
 computer
 printer
 apple
 orange
 pear
+water
+apple juice
+orange juice
