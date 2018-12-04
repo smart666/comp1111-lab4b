@@ -1,6 +1,6 @@
 phone
 computer
 printer
-apple
-orange
-pear
+apple juice
+orange juice
+pear juice
