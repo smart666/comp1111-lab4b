@@ -4,4 +4,3 @@ printer
 apple
 orange
 pear
-test
