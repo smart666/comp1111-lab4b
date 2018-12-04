@@ -1,0 +1,9 @@
+phone
+computer
+printer
+stravberry
+cherry
+pineapple
+apple
+banana
+pear
