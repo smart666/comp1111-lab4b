@@ -1,3 +1,6 @@
+upload
+option
+area
 peanut
 cashew nut
 pistachio nuts
